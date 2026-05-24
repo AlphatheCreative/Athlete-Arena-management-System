@@ -1,0 +1,14 @@
+{
+  "roster_cmds": [
+    "ADD_TEAM Alpha",
+    "ADD_TEAM Alpha",
+    "ADD_PLAYER Alpha 002 Jawad",
+    "ADD_TEAM Alpha",
+    "ADD_PLAYER Alpha 101 hanan"
+  ],
+  "lb_cmds": [
+    "INSERT_SCORE Jawad 1212"
+  ],
+  "q_cmds": [],
+  "bracket_cmds": []
+}
